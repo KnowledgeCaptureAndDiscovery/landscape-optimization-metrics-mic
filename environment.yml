@@ -1,0 +1,21 @@
+name: landscape-optimization-metrics-mic
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - fiona
+  - pandas==1.4.3
+  - descartes
+  - geopy
+  - geopandas==0.11.0
+  - contextily
+  - shapely
+  - xarray==2022.6.0
+  - jupyter
+  - jupyterlab
+  - gsutil
+  - folium
+  - rtree
+  - xarray
+  - rioxarray
+  - geocube
